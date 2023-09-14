@@ -1,0 +1,10 @@
+(Admin Detail)
+Username : admin
+Password : admin123
+
+
+(1 User)
+Email : shayan@gmail.com
+Password : shayan123
+
+
